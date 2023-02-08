@@ -1,2 +1,3 @@
 #!/bin/bash
-Where am I?
+pwd
+ls
