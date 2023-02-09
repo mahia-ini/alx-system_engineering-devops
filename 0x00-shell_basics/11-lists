@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ls -la /boot/parent_directory/current_directory
-=======
 ls -la /boot
->>>>>>> 1559132727651c3a8280faf2ec533d5cdf6a23b8
