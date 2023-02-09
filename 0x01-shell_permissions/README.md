@@ -1,3 +1,4 @@
 #!/bin/bash
 Switch user
 Print user
+Groups
