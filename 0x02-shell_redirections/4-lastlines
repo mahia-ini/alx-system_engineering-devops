@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -10 2-hellofile/etc/passwd
+tail /etc/passwd
