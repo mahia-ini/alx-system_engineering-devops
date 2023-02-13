@@ -1,2 +1,2 @@
 #!/bin/bash
-head -10 2-hellofile/etc/passwd
+head 2-hellofile/etc/passwd
