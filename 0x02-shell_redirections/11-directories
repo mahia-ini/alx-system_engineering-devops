@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -all
+wc --filesall-from0x02-shell_directories
